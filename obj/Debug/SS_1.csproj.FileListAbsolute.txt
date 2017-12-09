@@ -1,0 +1,5 @@
+c:\users\asus\documents\visual studio 2015\Projects\SS_1\bin\Debug\SS_1.dll
+c:\users\asus\documents\visual studio 2015\Projects\SS_1\bin\Debug\SS_1.pdb
+c:\users\asus\documents\visual studio 2015\Projects\SS_1\obj\Debug\SS_1.csprojResolveAssemblyReference.cache
+c:\users\asus\documents\visual studio 2015\Projects\SS_1\obj\Debug\SS_1.dll
+c:\users\asus\documents\visual studio 2015\Projects\SS_1\obj\Debug\SS_1.pdb
